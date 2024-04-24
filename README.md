@@ -1,6 +1,7 @@
+![alt text](BannerIdeas.gif)
+
 # 💫 About Me:
 Welcome! I'm a passionate software engineer who thrives on solving complex problems and creating innovative solutions. Beyond coding, I'm an adventurer at heart who loves exploring nature and discovering new places. Whether it's hiking in the mountains or strolling along the beach, I find inspiration in the beauty of the world around me. <br><br>When I'm not working on the latest tech project, you can often find me playing or watching sports. I'm a big fan of basketball and soccer, and I love the energy and teamwork that sports bring to the table. <br><br>Cooking is another one of my favorite pastimes. There's something magical about experimenting with new recipes and flavors in the kitchen. It's a creative outlet that allows me to unwind and share delicious meals with friends and family. <br><br>I'm always curious about the latest news and trends in the tech world. Staying updated with emerging technologies and innovations keeps me motivated and ready to tackle new challenges in my work. <br><br>Thanks for visiting! Feel free to reach out if you have any questions or just want to chat about tech, sports, or anything else!  
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/whitelotus32/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nickdixon32/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/whitelotus2152) 
