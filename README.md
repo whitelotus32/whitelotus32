@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas Dixon 👋
 
-### Aspiring GRC Analyst | IAM Analyst | GovTech
+### GRC Analyst | IAM Analyst | GovTech
 
 I'm building a career at the intersection of cybersecurity governance, risk management, and identity and access management.
 
