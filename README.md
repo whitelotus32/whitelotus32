@@ -1,26 +1,41 @@
-# Hi, I'm NicK Dixon 👋
+# Hi, I'm Nicholas Dixon 👋
 
-### GRC Analyst | IAM Analyst | GovTech
+### Aspiring GRC Analyst | IAM Analyst | GovTech
 
-I'm an IT and security professional, focused on the intersection of governance, risk management, identity security, and technology.
+I'm building a career at the intersection of cybersecurity governance, risk management, and identity and access management.
 
-My goal is to help organizations strengthen their security posture through effective access controls, risk assessments, policy implementation, and practical technical solutions.
+My interests include helping organizations strengthen their security posture through effective security controls, risk assessments, identity governance, access management, and technical solutions.
 
-I'm currently building hands-on experience through security labs, infrastructure projects, and technical documentation while pursuing my B.S. in Software Engineering through Arizona State University.
+I'm currently pursuing a B.S. in Software Engineering through Arizona State University while developing practical experience through cybersecurity labs, IT infrastructure projects, and hands-on technical documentation.
 
 ### 🔐 Areas of Focus
 
-- **Governance, Risk & Compliance:** Risk registers, control assessments, security policies, remediation tracking, and compliance documentation.
-- **Identity & Access Management:** Active Directory, RBAC, least privilege, access reviews, and joiner-mover-leaver processes.
-- **IT & Systems:** Windows administration, system troubleshooting, disk management, and infrastructure support.
-- **Automation:** PowerShell scripting, system verification, and administrative workflows.
+**Governance, Risk & Compliance (GRC)**
+- Security control assessments
+- Risk identification and mitigation
+- Policy and procedure documentation
+- Compliance monitoring
+- Audit readiness and remediation tracking
+
+**Identity & Access Management (IAM)**
+- Identity lifecycle management
+- Role-Based Access Control (RBAC)
+- Least privilege principles
+- Access reviews and authorization
+- Active Directory administration
+
+**Technical Foundation**
+- Windows administration
+- PowerShell scripting and automation
+- System troubleshooting and recovery
+- Virtualization and infrastructure fundamentals
 
 ### 🛠️ Technical Skills
 
 | Category | Technologies & Concepts |
 |---|---|
-| Identity & Access | Active Directory, RBAC, Least Privilege |
-| Security & GRC | Risk Assessment, Security Controls, Remediation |
+| GRC | Risk Assessment, Security Controls, Remediation |
+| IAM | Active Directory, RBAC, Least Privilege |
 | Operating Systems | Windows 11, Windows Server |
 | Scripting | PowerShell |
 | Virtualization | Oracle VirtualBox |
@@ -30,27 +45,25 @@ I'm currently building hands-on experience through security labs, infrastructure
 
 **Windows 11 System Recovery & Data Restoration**
 
-Documented a real-world operating system recovery involving Windows 11 restoration, data preservation, disk management, and PowerShell-based system verification.
+Real-world Windows recovery project demonstrating operating system restoration, data preservation, disk management, troubleshooting, and PowerShell-based system verification.
 
 [View Project](https://github.com/whitelotus32/Windows-11-System-Recovery-Data-Restoration)
 
 **Northstar Municipal Services – GRC & IAM Lab**
 
-A practical lab focused on identity governance, access management, security controls, risk assessment, and remediation workflows.
-
-*Project documentation and implementation details are maintained in the corresponding project repository.*
+Hands-on project exploring identity governance, access management, security controls, risk assessments, and remediation workflows.
 
 ### 🎓 Education & Certifications
 
 - B.S. Software Engineering — Arizona State University (In Progress)
-- CompTIA Security+ — In Progress
+- CompTIA Security+ — [Update status]
 
 ### 🎯 Career Objective
 
-I'm working toward a career in GovTech, with a focus on Governance, Risk & Compliance and Identity & Access Management.
+I'm pursuing opportunities in Governance, Risk & Compliance and Identity & Access Management, particularly within the public sector and GovTech.
 
-I'm particularly interested in opportunities where I can combine technical problem-solving, security analysis, documentation, and collaboration to improve organizational security and operational effectiveness.
+My goal is to combine technical problem-solving, security analysis, risk management, and identity governance to help organizations build secure, accountable, and resilient technology environments.
 
 ---
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/nickdixon32/)
+[LinkedIn](https://www.linkedin.com/in/nickdixon32/)
