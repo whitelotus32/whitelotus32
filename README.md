@@ -1,5 +1,3 @@
-![alt text](BannerIdeas.gif)
-
 # Hi, I'm NicK Dixon 👋
 
 ### GRC Analyst | IAM Analyst | GovTech
