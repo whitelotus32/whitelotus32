@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="assets/cybersecurity-govtech-banner.png" alt="Cybersecurity and GovTech — Building technology that protects people" width="100%">
+  <img src="cybersecurity-meets-civic-innovation.png" alt="Cybersecurity Meets Civic Innovation — Building technology that protects people" width="100%">
 </p>
 
 
