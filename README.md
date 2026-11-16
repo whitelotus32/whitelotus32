@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="assets/cybersecurity-govtech-banner.png" alt="Cybersecurity and GovTech — Building technology that protects people" width="100%">
+</p>
+
+
 # Hi, I'm Nicholas Dixon 👋
 
 ### GRC Analyst | IAM Analyst | GovTech
